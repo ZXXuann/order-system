@@ -51,6 +51,7 @@
 ![image](https://github.com/user-attachments/assets/11f6cc4c-4db8-42e6-baf9-f39b86cdd25a)
 
 菜单展示以及点餐模块：
+可以随意生成二维码，二维码里面包括桌号的json，然后小程序扫码后，可以查看到里面的包含桌号的json。
 ![image](https://github.com/user-attachments/assets/a9d5c302-27cc-4e52-acc1-73b346540df0)
 ![image](https://github.com/user-attachments/assets/3afb3e64-8377-4e62-adc3-37db4add8ebe)
 ![image](https://github.com/user-attachments/assets/88182fe3-333b-4c56-a70a-66af5a1ed899)
@@ -62,3 +63,4 @@
 ![image](https://github.com/user-attachments/assets/8054e12c-236b-4de6-b7d9-d99e754e6da9)
 ![image](https://github.com/user-attachments/assets/d6363e63-5613-4a01-a7f8-03cc489cde24)
 
+订单模块：
