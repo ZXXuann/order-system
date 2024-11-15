@@ -1,0 +1,11 @@
+本系统是点餐系统，包括管理端以及顾客端。
+技术栈包含JSON、axios、ruoyi、vue、elementUI、spring、springmvc、springboot、websocket
+管理端主要通过魔改ruoyi的代码。管理端包含菜品管理模块、订单管理模块、红包卡券模块、顾客管理模块、联系客服模块以及报表的查看。
+菜品管理：
+![image](https://github.com/user-attachments/assets/3a8d74e3-d209-4e36-a8aa-04a0d4ca355b)
+![image](https://github.com/user-attachments/assets/a13764c3-5aa3-4442-a5aa-f1faebfb00db)
+![image](https://github.com/user-attachments/assets/d579ddc5-67b0-477b-a8b7-e9e563f55354)
+![image](https://github.com/user-attachments/assets/78bfb11b-4d27-45ae-b93e-5bc7727f15bd)
+![image](https://github.com/user-attachments/assets/d1535b92-756b-4c51-adbf-33b94b69b202)
+![image](https://github.com/user-attachments/assets/bc761a61-7f22-4b6b-bd29-4c216225568e)
+![image](https://github.com/user-attachments/assets/6730c0e1-a74a-4cea-83ef-a2304cdd6977)
