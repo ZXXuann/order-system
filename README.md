@@ -1,4 +1,4 @@
-本系统是点餐系统，包括管理端以及顾客端。
+![image](https://github.com/user-attachments/assets/b54dd361-bc96-417a-a6e8-a13ac95db47e)本系统是点餐系统，包括管理端以及顾客端。
 技术栈包含JSON、JWT、axios、ruoyi、vue、elementUI、echart、spring、springmvc、springboot、websocket、mysql、mybatis、springsecurity等。
 此外，还采用了协同过滤算法。这里最主要采用了皮尔逊相似度进行计算：![image](https://github.com/user-attachments/assets/2f8bbe79-ab7f-4535-8fa4-41acb1e1c6f0)
 ![image](https://github.com/user-attachments/assets/ea03c5a0-5bc6-4bf5-93e2-f2f4e5f08eb4)
@@ -64,3 +64,20 @@
 ![image](https://github.com/user-attachments/assets/d6363e63-5613-4a01-a7f8-03cc489cde24)
 
 订单模块：
+![image](https://github.com/user-attachments/assets/5b755957-4a12-4296-8276-54e827181ebe)
+![image](https://github.com/user-attachments/assets/e9879ca7-77b6-40d6-92fc-53699e8ccc5b)
+![image](https://github.com/user-attachments/assets/117e7c71-356e-42a2-9b23-9df2c0c8e045)
+
+评价模块：
+![image](https://github.com/user-attachments/assets/a447e2b9-0cee-44a9-8b86-e681d5906700)
+![image](https://github.com/user-attachments/assets/2180c368-a083-41cf-be2c-4c077cc3154a)
+![image](https://github.com/user-attachments/assets/205a7069-78f0-4df6-8f1e-96b7c89cc42e)
+![image](https://github.com/user-attachments/assets/ccb2fb09-e5d3-45bb-9002-5e7e04a99940)
+![image](https://github.com/user-attachments/assets/052c620d-e2d0-4df3-a837-58298f412610)
+![image](https://github.com/user-attachments/assets/fa6793d9-cc52-4d25-99ad-0758b5ef613a)
+
+资料修改模块：
+![image](https://github.com/user-attachments/assets/ce8ed131-fc29-4f15-a549-d6a6ab46a00f)
+![image](https://github.com/user-attachments/assets/e668587f-efbb-417e-b8f9-3c222682a490)
+![image](https://github.com/user-attachments/assets/6f8b8e0e-c103-43a9-a72a-bca209da686d)
+![image](https://github.com/user-attachments/assets/5ebbb859-bec7-4083-bfc3-df6659b90eb0)
