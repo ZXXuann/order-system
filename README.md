@@ -1,7 +1,9 @@
 本系统是点餐系统，包括管理端以及顾客端。
-技术栈包含JSON、JWT、axios、ruoyi、vue、elementUI、echart、spring、springmvc、springboot、websocket、mysql、mybatis、springsecurity等。
+技术栈包含uniapp、JSON、JWT、axios、ruoyi、vue、elementUI、echart、spring、springmvc、springboot、websocket、mysql、mybatis、springsecurity\redis等。
 此外，还采用了协同过滤算法。这里最主要采用了皮尔逊相似度进行计算：![image](https://github.com/user-attachments/assets/2f8bbe79-ab7f-4535-8fa4-41acb1e1c6f0)
 ![image](https://github.com/user-attachments/assets/ea03c5a0-5bc6-4bf5-93e2-f2f4e5f08eb4)
+
+这里还用到了websocket，使得客户和后台之间能进行留言沟通。
 系统总体开发架构图如下：
 ![image](https://github.com/user-attachments/assets/2cc84624-6b63-4c15-ba3e-5dc97caefb43)
 
@@ -96,3 +98,7 @@
 ![image](https://github.com/user-attachments/assets/f1fa916f-d57e-44f6-876d-d0aaab33830a)
 ![image](https://github.com/user-attachments/assets/abdc00bd-a821-4741-acb5-b02b774a76bb)
 
+扫桌号模块：
+![image](https://github.com/user-attachments/assets/6f81721b-22fd-47fe-8034-2b0f98a98dcb)
+![image](https://github.com/user-attachments/assets/ebfd7b49-ac23-472e-9cc5-f3923e9d22b0)
+![image](https://github.com/user-attachments/assets/abe239a8-ae60-4595-b47d-0a1ca55e0156)
