@@ -84,6 +84,9 @@
 ![image](https://github.com/user-attachments/assets/5ebbb859-bec7-4083-bfc3-df6659b90eb0)
 
 红包卡券模块：
+红包会有过期红包和可使用红包。过期红包会根据服务器的时间进行判断，若超过当前服务器时间则判断为过期红包，那么在顾客端就用不了。
+可使用红包包括无门槛红包和有门槛优惠券。这里的无门槛红包可能使用时候会超过使用的金额，例如你购买18元的东西，想使用20元的红包。这时结算时会为-2元。那这种情况显然不行，那么我们就应该要补充多一个if来判断这种情况，如果是-数的，那么直接付款为0即可。
+而有门槛红包则需要先加个if判断当前金额是否超过当前的门槛金额，才可以使用。
 ![image](https://github.com/user-attachments/assets/96180656-3602-49f9-9555-d41cf898cb21)
 ![image](https://github.com/user-attachments/assets/a0427724-134d-40d6-b00a-36867623a28b)
 ![image](https://github.com/user-attachments/assets/dfd0f29f-78c6-442c-9ff7-41d9f6f42417)
@@ -92,3 +95,4 @@
 ![image](https://github.com/user-attachments/assets/86ff755a-b61c-46cd-ad36-ca915ab02143)
 ![image](https://github.com/user-attachments/assets/f1fa916f-d57e-44f6-876d-d0aaab33830a)
 ![image](https://github.com/user-attachments/assets/abdc00bd-a821-4741-acb5-b02b774a76bb)
+
