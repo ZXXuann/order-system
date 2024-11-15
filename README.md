@@ -44,3 +44,21 @@
 ![image](https://github.com/user-attachments/assets/4a2f0ff4-bbc4-425e-ab6b-e95d2f55ee35)
 
 顾客端主要包括：登录注册、菜单分类展示、菜品展示、扫码下座、下单点餐、规格选取、优惠减免、支付订单、评分评价、联系客服等。
+登录注册：
+
+![image](https://github.com/user-attachments/assets/6b8de02a-2ead-4a33-8b13-418f5be0e8d3)
+![image](https://github.com/user-attachments/assets/238df64f-1063-4f40-b139-d1f3f075d4b4)
+![image](https://github.com/user-attachments/assets/11f6cc4c-4db8-42e6-baf9-f39b86cdd25a)
+
+菜单展示以及点餐模块：
+![image](https://github.com/user-attachments/assets/a9d5c302-27cc-4e52-acc1-73b346540df0)
+![image](https://github.com/user-attachments/assets/3afb3e64-8377-4e62-adc3-37db4add8ebe)
+![image](https://github.com/user-attachments/assets/88182fe3-333b-4c56-a70a-66af5a1ed899)
+![image](https://github.com/user-attachments/assets/16a738ee-22a7-407e-aa6c-969fe8253df5)
+![image](https://github.com/user-attachments/assets/77f50c24-cba7-4928-bba1-8119e435a9a9)
+![image](https://github.com/user-attachments/assets/03bd658f-5063-4b6e-9b45-aa1155af5545)
+![image](https://github.com/user-attachments/assets/b00295e3-f2b7-40e9-b44b-c25cc01851df)
+![image](https://github.com/user-attachments/assets/dd6f4d29-5133-4b00-8cc6-b7da75aa82c3)
+![image](https://github.com/user-attachments/assets/8054e12c-236b-4de6-b7d9-d99e754e6da9)
+![image](https://github.com/user-attachments/assets/d6363e63-5613-4a01-a7f8-03cc489cde24)
+
