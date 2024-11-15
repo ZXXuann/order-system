@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b54dd361-bc96-417a-a6e8-a13ac95db47e)本系统是点餐系统，包括管理端以及顾客端。
+本系统是点餐系统，包括管理端以及顾客端。
 技术栈包含JSON、JWT、axios、ruoyi、vue、elementUI、echart、spring、springmvc、springboot、websocket、mysql、mybatis、springsecurity等。
 此外，还采用了协同过滤算法。这里最主要采用了皮尔逊相似度进行计算：![image](https://github.com/user-attachments/assets/2f8bbe79-ab7f-4535-8fa4-41acb1e1c6f0)
 ![image](https://github.com/user-attachments/assets/ea03c5a0-5bc6-4bf5-93e2-f2f4e5f08eb4)
@@ -52,6 +52,7 @@
 
 菜单展示以及点餐模块：
 可以随意生成二维码，二维码里面包括桌号的json，然后小程序扫码后，可以查看到里面的包含桌号的json。
+![image](https://github.com/user-attachments/assets/b54dd361-bc96-417a-a6e8-a13ac95db47e)
 ![image](https://github.com/user-attachments/assets/a9d5c302-27cc-4e52-acc1-73b346540df0)
 ![image](https://github.com/user-attachments/assets/3afb3e64-8377-4e62-adc3-37db4add8ebe)
 ![image](https://github.com/user-attachments/assets/88182fe3-333b-4c56-a70a-66af5a1ed899)
@@ -81,3 +82,13 @@
 ![image](https://github.com/user-attachments/assets/e668587f-efbb-417e-b8f9-3c222682a490)
 ![image](https://github.com/user-attachments/assets/6f8b8e0e-c103-43a9-a72a-bca209da686d)
 ![image](https://github.com/user-attachments/assets/5ebbb859-bec7-4083-bfc3-df6659b90eb0)
+
+红包卡券模块：
+![image](https://github.com/user-attachments/assets/96180656-3602-49f9-9555-d41cf898cb21)
+![image](https://github.com/user-attachments/assets/a0427724-134d-40d6-b00a-36867623a28b)
+![image](https://github.com/user-attachments/assets/dfd0f29f-78c6-442c-9ff7-41d9f6f42417)
+![image](https://github.com/user-attachments/assets/26fa12c7-f1aa-4fda-a680-a5af30e4ba41)
+![image](https://github.com/user-attachments/assets/a0c2bda1-8a42-4f89-be71-09da98928396)
+![image](https://github.com/user-attachments/assets/86ff755a-b61c-46cd-ad36-ca915ab02143)
+![image](https://github.com/user-attachments/assets/f1fa916f-d57e-44f6-876d-d0aaab33830a)
+![image](https://github.com/user-attachments/assets/abdc00bd-a821-4741-acb5-b02b774a76bb)
